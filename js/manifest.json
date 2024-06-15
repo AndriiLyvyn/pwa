@@ -6,7 +6,7 @@
      "display": "standalone",
      "background_color": "#fff",
      "theme_color": "#fff",
-     "icon": [
+     "icons": [
           {
                "src": "./images/hello-icon-128.png",
                "sizes": "128x128",
